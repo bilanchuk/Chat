@@ -1,0 +1,17 @@
+.block{
+	height: 91.5vh;
+}
+.block div{
+	border:1px solid black;
+	border-radius: 10px;
+}
+.block .users p {
+	border: 3px solid aqua;
+	border-radius: 15px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 3px;
+	font-size: 15pt;
+	font-weight: bolder;
+}
